@@ -1,4 +1,7 @@
-## Hi there 👋
+### Hi, I'm Danilo Šindrić
+
+I've been enjoying web development for the first time ever since I built a backend in PHP for a game that I was working on. It made me fall in love with the language and I never touched game development ever again.
+I'm currently looking for a role in full-stack web development, ideally writing Go or PHP on the backend and Vue.js on the front end. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
 
 <!--
 **danilovict2/danilovict2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
