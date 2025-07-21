@@ -1,20 +1,14 @@
-### Hi, I'm Danilo Šindrić
+## Hi, I'm Danilo Sindric
 
-I've been enjoying web development for the first time ever since I built a backend in PHP for a game that I was working on. It made me fall in love with the language and I never touched game development ever again.
+[![My Skills](https://skillicons.dev/icons?i=go,php,symfony,linux,git,neovim,docker,html,css,javascript,typescript,vue,python,zig,c,cpp)](https://skillicons.dev)
 
-I'm currently looking for a role in full-stack web development, ideally writing Go or PHP on the backend and Vue.js on the front end. I'd especially love to work at a startup on a tight-knit team where I can make an impact quickly. If you're hiring, let's chat!
+### My primary languages (in order of knowledge)
+- [Go](https://go.dev/)
+- [PHP](https://www.php.net/)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/)
+- [Python](https://python.org/)
 
-<!--
-**danilovict2/danilovict2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Fun facts
+- I'm learning Zig at the moment
+- You can reach me on [LinkedIn](https://www.linkedin.com/in/danilo-%C5%A1indri%C4%87-865aba312/)
+- I use Neovim, btw
