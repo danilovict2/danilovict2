@@ -1,6 +1,6 @@
 ## Hi, I'm Danilo Sindric
 
-[![My Skills](https://skillicons.dev/icons?i=go,php,symfony,linux,git,neovim,docker,html,css,javascript,typescript,vue,python,zig,c,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,php,symfony,linux,git,neovim,docker,html,css,javascript,typescript,vue,python,zig)](https://skillicons.dev)
 
 ### My primary languages (in order of knowledge)
 - [Go](https://go.dev/)
