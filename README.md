@@ -9,6 +9,6 @@
 - [Python](https://python.org/)
 
 ### Fun facts
-- 🐊 I'm learning Zig at the moment
+- 🐊 I'm learning Zig and Common Lisp at the moment
 - 📨 You can contact me on [LinkedIn](https://www.linkedin.com/in/danilo-%C5%A1indri%C4%87-865aba312/)
 - 👨‍💻 I use Neovim, btw
